@@ -1,5 +1,6 @@
-var Adoption = artifacts.require("Adoption");
+var Election = artifacts.require("./Election.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Adoption);
+  deployer.deploy(Election);
 };
+
