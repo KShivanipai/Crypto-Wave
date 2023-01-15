@@ -1,5 +1,5 @@
 # Election - DAPP
-
+With blockchain voting, issues regarding voter confidence, transparency and accessibility could be solved in future elections.
 
 ## Features:
 
