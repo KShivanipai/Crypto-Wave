@@ -2,6 +2,7 @@
 With blockchain voting, issues regarding voter confidence, transparency and accessibility could be solved in future elections.
 
 ## Features:
+The features which we have incorporated in our project are given below:
 
 **Admin**
 
